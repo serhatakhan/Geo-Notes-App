@@ -1,0 +1,26 @@
+import React, {Component} from 'react';
+import {View, Text, Modal, ActivityIndicator} from 'react-native';
+import { Colors } from '../../theme/colors';
+
+const LoadingModal = ({visible}) => {
+  return (
+    <Modal visible={visible} transparent animationType="fade">
+      <View
+        style={{
+          flex: 1,
+          backgroundColor: 'rgba(0,0,0,0.5)',
+          justifyContent: 'center',
+          alignItems: 'center',
+        }}>
+        <View style={{backgroundColor: Colors.WHITE, padding: 20, borderRadius: 10}}>
+          <ActivityIndicator size={'large'} color={Colors.GRAY} />
+          <Text style={{marginTop: 10, fontSize: 16, fontWeight: '500'}}>
+            Yükleniyor
+          </Text>
+        </View>
+      </View>
+    </Modal>
+  );
+};
+
+export default LoadingModal;

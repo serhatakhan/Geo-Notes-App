@@ -1,0 +1,16 @@
+export const MAP = "Map"
+export const DETAIL = "DETAIL"
+export const NOTES = "Notes"
+export const ADDNOTE = "Add New Note"
+export const EDITNOTE = "Edit Note"
+export const SIGNIN = "Sign In"
+export const SIGNUP = "Sign Up"
+export const LAUNCH = "Launch"
+export const PROFILE = "Profile"
+export const COORDINATESELECT = "Coordinate Select"
+export const ADDLOCATION = "Add Location"
+export const EDITUSER = "Edit User"
+export const FAVORITES = "Favorites"
+export const TAB = "Tab"
+// * nested yaptığımız için bir de tab için de bir navigasyona ihtiyaç var,
+// o yüzden TAB'ı ekledik.
