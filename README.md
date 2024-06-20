@@ -15,3 +15,10 @@ This project is a React Native application that allows users to take notes by se
 **Location Selection:** Users can select a location on the map to add a note.
 
 **User Profile Update:** Users can update their profile information.
+
+## Usage
+
+- After launching the application, register or log in with an existing account to add notes.
+- Select a location on the map, add your note, and save it.
+- Edit or view details of your added notes.
+- Update your profile to change user information.
