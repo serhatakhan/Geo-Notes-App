@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:730765005021:android:2278b128da6547ee404b34",
+        "mobilesdk_app_id": "...",
         "android_client_info": {
           "package_name": "com.geonotes"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA1eErm15JC7NsNRnJowzOXOSuO0vcVZGc"
+          "current_key": "api_key"
         }
       ],
       "services": {
