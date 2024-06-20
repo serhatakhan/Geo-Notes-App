@@ -22,3 +22,14 @@ This project is a React Native application that allows users to take notes by se
 - Select a location on the map, add your note, and save it.
 - Edit or view details of your added notes.
 - Update your profile to change user information.
+
+## Used Technologies
+
+- Async Storage
+- React Native Community / Geolocation
+- Firebase
+- React Navigations (Bottom Tabs & Native Stack)
+- Iconsax
+- React Native Image Crop Picker
+- React Native Maps
+- React Native Splash Screen
